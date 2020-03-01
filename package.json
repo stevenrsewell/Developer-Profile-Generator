@@ -1,0 +1,24 @@
+{
+  "name": "developer-profile-generator",
+  "version": "1.0.0",
+  "description": "Command-line application that dynamically generates a PDF profile from a GitHub username.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stevenrsewell/Developer-Profile-Generator.git"
+  },
+  "keywords": [
+    "Developer",
+    "Profile",
+    "Generator"
+  ],
+  "author": "Steven Sewell",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/stevenrsewell/Developer-Profile-Generator/issues"
+  },
+  "homepage": "https://github.com/stevenrsewell/Developer-Profile-Generator#readme"
+}
