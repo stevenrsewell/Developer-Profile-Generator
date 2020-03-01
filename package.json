@@ -20,5 +20,14 @@
   "bugs": {
     "url": "https://github.com/stevenrsewell/Developer-Profile-Generator/issues"
   },
-  "homepage": "https://github.com/stevenrsewell/Developer-Profile-Generator#readme"
+  "homepage": "https://github.com/stevenrsewell/Developer-Profile-Generator#readme",
+  "dependencies": {
+    "axios": "^0.19.0",
+    "dotenv": "^8.0.0",
+    "electron": "^5.0.3",
+    "electron-html-to": "^2.6.0",
+    "inquirer": "^7.0.5",
+    "open": "^7.0.2",
+    "path": "^0.12.7"
+  }
 }
